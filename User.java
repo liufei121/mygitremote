@@ -1,5 +1,5 @@
 public class User{
-	private Integer id;
+	private Integer id;//在b1分支中修改的内容
 	private String username;
 	public User(){
 	}
